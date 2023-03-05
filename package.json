@@ -25,7 +25,7 @@
     "turf-convex": "^1.0.1",
     "turf-explode": "^1.0.1",
     "underscore": "^1.8.3",
-    "wellknown": "^0.3.2",
+    "wellknown": "^0.5.0",
     "xhr": "^2.0.3"
   },
   "devDependencies": {
