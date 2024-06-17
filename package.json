@@ -18,7 +18,7 @@
     "fastclick": "^1.0.6",
     "leaflet": "^1.0.0-beta.2",
     "leaflet-hash": "^0.2.1",
-    "react": "^0.13.3",
+    "react": "^0.14.0",
     "react-router": "^0.13.3",
     "topojson": "1.6.19",
     "turf-centroid": "^1.1.2",
